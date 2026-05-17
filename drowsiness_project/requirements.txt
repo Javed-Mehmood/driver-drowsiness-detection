@@ -1,0 +1,14 @@
+# Driver Drowsiness Detector - Requirements
+# Install all with: pip install -r requirements.txt
+
+tensorflow>=2.10.0
+opencv-python>=4.7.0
+dlib>=19.24.0
+imutils>=0.5.4
+scipy>=1.10.0
+numpy>=1.23.0
+matplotlib>=3.7.0
+pygame>=2.4.0
+opendatasets>=0.1.22
+Pillow>=9.5.0
+scikit-learn>=1.2.0
